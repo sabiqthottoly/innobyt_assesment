@@ -1,7 +1,4 @@
 import React from 'react'
-import { Row, Col } from 'reactstrap'
-import Card from './common/Card'
-import CustomButton from './common/CustomButton'
 
 function AboutIntro(){
     return(

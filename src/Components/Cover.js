@@ -23,7 +23,6 @@ function Cover(){
             <Row className="crypto-stock" style={{justifyContent:'space-between', width:'90%', marginBottom: 30}}>
                 <Col>
                     <div>
-                        <img/>
                         <h5>Avanda Index fund</h5>
                     </div>
                 </Col>

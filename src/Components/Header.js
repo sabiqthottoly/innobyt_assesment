@@ -1,20 +1,4 @@
 import React, { useState } from 'react';
-import {
-  Collapse,
-  Navbar,
-  NavbarToggler,
-  NavbarBrand,
-  Nav,
-  NavItem,
-  NavLink,
-  UncontrolledDropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem,
-  NavbarText,
-  Row,
-  Col
-} from 'reactstrap';
 import logo from '../assets/images/logotype_2x.webp'
 
 const Header = (props) => {

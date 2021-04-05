@@ -1,6 +1,5 @@
 import React from 'react'
 import { Row, Col } from 'reactstrap'
-import Card from './common/Card'
 
 function Footer(){
     return(
