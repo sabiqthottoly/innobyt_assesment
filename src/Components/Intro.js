@@ -7,7 +7,7 @@ function Intro() {
     return(
         <Row data-aos="fade-right"  data-aos-easing="ease-in-sine"  className='intro-container'>
             <Col xl='6'>
-                <img src={introImg} class="img-fluid" alt="Responsive image" />
+                <img src={introImg} class="img-fluid" alt="Responsive" />
             </Col>
             <Col data-aos="fade-right" xl='6' style={{alignItems:'center'}}>
                 <h1 style={{color:'black', textAlign: 'left', fontSize: 45, fontWeight: 'bolder', margin: 20}}>What is Crypto?</h1>

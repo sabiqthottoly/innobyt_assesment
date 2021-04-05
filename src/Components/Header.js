@@ -2,14 +2,11 @@ import React, { useState } from 'react';
 import logo from '../assets/images/logotype_2x.webp'
 
 const Header = (props) => {
-  const [isOpen, setIsOpen] = useState(false);
-
-  const toggle = () => setIsOpen(!isOpen);
 
   return (
     <div className='header-container'>
         <div className="header-brand">
-            <img src={logo} style={{height: 20}}/>
+            <img src={logo} alt="" style={{height: 20}}/>
         </div>
         <div className='navbar-container'>
             <ul className='navbar-list'>

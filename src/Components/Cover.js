@@ -13,10 +13,10 @@ function Cover(){
                 <Col data-aos="fade-right" data-aos-duration="500" className="cover-title">
                     <h1 style={{textAlign:'left', fontWeight: "bolder", fontSize: 75, lineHeight: 1,marginBottom: 10}}>{'Making the future of crypto beautiful'}</h1>
                     <h3 style={{textAlign:'left', marginTop: 25}}>Integer at lorem eget diam facilisis laci ac id massa. Nulla facilisi. Duis ornare facilisis ex non porttitor.</h3>
-                    <h5 style={{textAlign:'left', marginTop: 65}}>Looking for help? <span><a>Get in touch with us</a></span></h5>
+                    <h5 style={{textAlign:'left', marginTop: 65}}>Looking for help? <span style={{color:"gold"}}>Get in touch with us</span></h5>
                 </Col>
                 <Col data-aos="fade-left" data-aos-duration="500">
-                    <img src={sideimage} className="img-fluid side-image" alt="Responsive image"/>
+                    <img src={sideimage} className="img-fluid side-image" alt="Responsive"/>
                 </Col>
             </Row>
                 <div style={{height: '0.5px', width:'90%', backgroundColor: 'rgb(39, 42, 46)', marginTop: 10, marginBottom: 20}}/>
