@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import logo from '../assets/images/logotype_2x.webp'
 
 const Header = (props) => {
